@@ -1,0 +1,1 @@
+The Data is gathered from several survey and publicly available data about the collaboration of Manufacturing-SupplyChain in the product Lifecycle Management of Physical Products across Automotive/SemiConductors/Medical Devices Manufacturing/Hi-Tech Electronics Manufacturing.
